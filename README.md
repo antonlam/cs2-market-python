@@ -6,6 +6,8 @@ step 0: install request and beautifulsoup on the environment
 
 > pip install requests
 
+**Not necessanary to download those json file**
+
 **1: Run the updateJsonFile.py (run it whenever it is a new case or collection)**
 ![image](https://github.com/user-attachments/assets/276d5e03-4364-42ca-822d-f8622c39a5ae)
 
