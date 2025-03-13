@@ -1,0 +1,35 @@
+{
+    "exteriorDic": {
+        "1": "Factory New",
+        "2": "Minimal Wear",
+        "3": "Field-Tested",
+        "4": "Well-Worn",
+        "5": "Battle-Scarred",
+        "6": "Not Painted"
+    },
+    "categoryDic": {
+        "1": "Normal",
+        "2": "★",
+        "3": "StatTrak™",
+        "4": "★ StatTrak™",
+        "5": "Souvenir"
+    },
+    "qualityDic": {
+        "1": "Consumer Grade",
+        "2": "Industrial Grade",
+        "3": "Mil-Spec Grade",
+        "4": "Restricted",
+        "5": "Classified",
+        "6": "Covert",
+        "7": "Contraband",
+        "8": "Base Grade",
+        "9": "High Grade",
+        "10": "Remarkable",
+        "11": "Exotic",
+        "12": "Extraordinary",
+        "13": "Distinguished",
+        "14": "Exceptional",
+        "15": "Superior",
+        "16": "Master"
+    }
+}
